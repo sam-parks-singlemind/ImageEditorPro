@@ -19,7 +19,7 @@ dependencies:
   screenshot: ^0.3.0
   signature: ^4.0.2
   flutter_colorpicker: ^0.4.0
-  firexcode: ^1.0.5
+  firexcode:
 
   flutter_web_plugins:
     sdk: flutter
