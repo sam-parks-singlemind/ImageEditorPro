@@ -22,7 +22,7 @@ dependencies:
   flutter_colorpicker: ^1.0.3
   firexcode:
     git: 
-      url: https://github.com/Sar777/FireXcode.git
+      url: https://github.com/sam-parks-singlemind/FireXcode.git
 
   flutter_web_plugins:
     sdk: flutter

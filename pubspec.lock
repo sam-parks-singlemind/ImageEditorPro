@@ -5,18 +5,18 @@ packages:
     dependency: transitive
     description:
       name: _fe_analyzer_shared
-      sha256: d93b0378aadce9c1388108067946276582c2ae89426c64c17920c74988508fed
+      sha256: "37bb1e815e15fbeefe916e4c941ef070f2f64d15a7eacc3cc0f6e8847b62319c"
       url: "https://pub.dev"
     source: hosted
-    version: "22.0.0"
+    version: "48.0.0"
   analyzer:
     dependency: transitive
     description:
       name: analyzer
-      sha256: "581a0281129283e75d4d67d6ac6e391c0515cdce37eb6eb4bc8a52e65d2b16b6"
+      sha256: c50aea66893c20d44c365d4269983a74a5c1a4055b7b78f38fbf0e24f519b6a2
       url: "https://pub.dev"
     source: hosted
-    version: "1.7.2"
+    version: "5.0.0"
   animated_interpolation:
     dependency: transitive
     description:
@@ -74,14 +74,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
-  cli_util:
-    dependency: transitive
-    description:
-      name: cli_util
-      sha256: "66f86e916d285c1a93d3b79587d94bd71984a66aac4ff74e524cfa7877f1395c"
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.3.5"
   clock:
     dependency: transitive
     description:
@@ -142,10 +134,10 @@ packages:
     dependency: transitive
     description:
       name: dart_style
-      sha256: "7f5b48e6a448c4b46250a6113857a00eaa82821ef5a3d7f42e68eb69d1283fa3"
+      sha256: "7a03456c3490394c8e7665890333e91ae8a49be43542b616e414449ac358acd4"
       url: "https://pub.dev"
     source: hosted
-    version: "2.1.1"
+    version: "2.2.4"
   dio:
     dependency: "direct main"
     description:
@@ -183,8 +175,8 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "9a43b76cb6a9561ccbc8106a3ee5fc7b2de167f5"
-      url: "https://github.com/Sar777/FireXcode.git"
+      resolved-ref: "040563836ba909c9af2e6e634efc9e63132f9db7"
+      url: "https://github.com/sam-parks-singlemind/FireXcode.git"
     source: git
     version: "1.0.8"
   flutter:
